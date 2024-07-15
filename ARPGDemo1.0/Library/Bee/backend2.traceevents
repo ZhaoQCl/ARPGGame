@@ -1,0 +1,854 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1721008647537440, "dur":33898, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008647571346, "dur":222, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008647571618, "dur":65, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1721008647571686, "dur":624, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008647572553, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647572732, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647573505, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647573632, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647573828, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647573992, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647574277, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647574440, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647574597, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647574805, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647575014, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647575202, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647575863, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647578213, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647578343, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647578563, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647578861, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579106, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579275, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579521, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579653, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579776, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647579900, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647580002, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647580320, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647580655, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647583978, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647584796, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647584953, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1721008647585398, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647585577, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.caw" }}
+,{ "pid":12345, "tid":0, "ts":1721008647585805, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1721008647586149, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.vis" }}
+,{ "pid":12345, "tid":0, "ts":1721008647586644, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1721008647587288, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647587430, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647587493, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647588869, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647589040, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647589144, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647589290, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647589446, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1721008647590743, "dur":2226, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1721008647572348, "dur":20854, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008647593211, "dur":1864728, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008649457952, "dur":257, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008649458209, "dur":54, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008649458570, "dur":9190, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1721008647573497, "dur":19729, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008647593230, "dur":8435, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008647601724, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1721008647660033, "dur":2234, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1721008647662273, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008647662695, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1721008647662807, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663037, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\Month3\\ARPGDemo1.0\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663211, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\Month3\\ARPGDemo1.0\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663312, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\Month3\\ARPGDemo1.0\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663476, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\Month3\\ARPGDemo1.0\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663571, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\Month3\\ARPGDemo1.0\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008647663761, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player85a4a1cd-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1721008647662272, "dur":1658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008647664617, "dur":96, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008647665482, "dur":368643, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008648041305, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008648041303, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008648041557, "dur":3665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1721008648045485, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648049524, "dur":5730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648055316, "dur":12474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648067863, "dur":634, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008648068582, "dur":4641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648073296, "dur":5997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648079315, "dur":310, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008648079660, "dur":4199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1721008648088065, "dur":297330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/StandaloneWindows/player_assets_all_b91159ac768d480a162ffed78111f11f.bundle" }}
+,{ "pid":12345, "tid":1, "ts":1721008648385447, "dur":15090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648404791, "dur":19874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648438309, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008648426672, "dur":11802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1721008648438626, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008648438707, "dur":13352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1721008648458537, "dur":16764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648476749, "dur":6265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648488930, "dur":146, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008648484224, "dur":4874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648491068, "dur":392813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1721008648896216, "dur":6281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648903513, "dur":4260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008648908998, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648914136, "dur":4640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648919942, "dur":4498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.caw" }}
+,{ "pid":12345, "tid":1, "ts":1721008648925436, "dur":17413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648944217, "dur":12213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008648957790, "dur":8293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1721008648967867, "dur":73251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649060523, "dur":82821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649144423, "dur":25105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649171549, "dur":3920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649175954, "dur":6665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649190512, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649185845, "dur":4788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649196007, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649190864, "dur":5371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649196288, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649197577, "dur":7881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649213628, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649205525, "dur":8206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649215029, "dur":5297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649221213, "dur":8454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1721008649230768, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649241226, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649234243, "dur":7149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.caw" }}
+,{ "pid":12345, "tid":1, "ts":1721008649241422, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1721008649425559, "dur":3964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1721008649436000, "dur":306, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649430581, "dur":5772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649438096, "dur":4345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649443519, "dur":3335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.vis" }}
+,{ "pid":12345, "tid":1, "ts":1721008649451799, "dur":242, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1721008649447875, "dur":4179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.caw" }}
+,{ "pid":12345, "tid":1, "ts":1721008649453196, "dur":3326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1721008649456554, "dur":1397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647574000, "dur":19282, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647593286, "dur":579, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647593867, "dur":318, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647594186, "dur":214, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647594400, "dur":7321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008647601842, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":2, "ts":1721008647601729, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":2, "ts":1721008647612101, "dur":98525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":2, "ts":1721008647717246, "dur":269365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1721008647986640, "dur":47525, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648034194, "dur":11290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648045568, "dur":5535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648051133, "dur":338, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648051498, "dur":7279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648058876, "dur":11444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648070348, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648076198, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648070427, "dur":5831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648076346, "dur":5209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648081585, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648089884, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648081674, "dur":8275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1721008648090038, "dur":229759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1721008648336179, "dur":55353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008648394274, "dur":20377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008648429092, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1721008648417349, "dur":11848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.vis" }}
+,{ "pid":12345, "tid":2, "ts":1721008648437940, "dur":14376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.vis" }}
+,{ "pid":12345, "tid":2, "ts":1721008648458611, "dur":18604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008648480238, "dur":12016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1721008648492698, "dur":407512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008648902294, "dur":5419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008648907819, "dur":4925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008648914053, "dur":3837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008648919925, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1721008648925170, "dur":17894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008648944211, "dur":13739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008648958453, "dur":6266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008648965852, "dur":5788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008648973110, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.vis" }}
+,{ "pid":12345, "tid":2, "ts":1721008648976344, "dur":3238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008648979625, "dur":2521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1721008648982177, "dur":2530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008648984796, "dur":96241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008649081079, "dur":63464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008649144615, "dur":25033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008649172486, "dur":4042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008649176651, "dur":8412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1721008649187855, "dur":4952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008649195039, "dur":5682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008649213587, "dur":9083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1721008649229862, "dur":14541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008649425584, "dur":5471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008649431102, "dur":5018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008649436162, "dur":5671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008649441974, "dur":6891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1721008649450835, "dur":5682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.caw" }}
+,{ "pid":12345, "tid":2, "ts":1721008649456540, "dur":1406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647573612, "dur":19629, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647593249, "dur":769, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647594019, "dur":491, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647594510, "dur":7169, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647601794, "dur":326, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008647601724, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008647653704, "dur":262624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008647916347, "dur":55370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008647971871, "dur":67153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648039049, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648039140, "dur":4535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648043720, "dur":5081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648048855, "dur":7924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648056921, "dur":567, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648057542, "dur":12476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648070042, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648070121, "dur":6128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648076354, "dur":5735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648082116, "dur":380, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648089747, "dur":160, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648082530, "dur":7492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1721008648090122, "dur":127479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1721008648217661, "dur":113558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1721008648331293, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1721008648335790, "dur":52893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1721008648388734, "dur":12137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008648404637, "dur":20120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.caw" }}
+,{ "pid":12345, "tid":3, "ts":1721008648426692, "dur":13701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.caw" }}
+,{ "pid":12345, "tid":3, "ts":1721008648442151, "dur":23553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648465740, "dur":11565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.caw" }}
+,{ "pid":12345, "tid":3, "ts":1721008648486777, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648480063, "dur":6857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648492951, "dur":408435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648902538, "dur":4920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008648907641, "dur":4592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008648913970, "dur":3904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648921213, "dur":3744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648925118, "dur":17287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008648945890, "dur":381, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008648942440, "dur":3891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008648946412, "dur":11089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008648957586, "dur":6600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1721008648965288, "dur":4833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.vis" }}
+,{ "pid":12345, "tid":3, "ts":1721008648970406, "dur":111403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.vis" }}
+,{ "pid":12345, "tid":3, "ts":1721008649156210, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008649104501, "dur":51831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008649161706, "dur":10540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.vis" }}
+,{ "pid":12345, "tid":3, "ts":1721008649180627, "dur":141, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008649174269, "dur":6511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1721008649186842, "dur":7661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008649195152, "dur":5851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.caw" }}
+,{ "pid":12345, "tid":3, "ts":1721008649211470, "dur":6169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.caw" }}
+,{ "pid":12345, "tid":3, "ts":1721008649217967, "dur":10997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1721008649229000, "dur":9843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1721008649240612, "dur":188197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008649430449, "dur":4384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1721008649435875, "dur":9679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.vis" }}
+,{ "pid":12345, "tid":3, "ts":1721008649449150, "dur":2796, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1721008649452111, "dur":4206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.vis" }}
+,{ "pid":12345, "tid":3, "ts":1721008649456360, "dur":1595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647573849, "dur":19421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647593275, "dur":654, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647593929, "dur":388, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647594318, "dur":7486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647601807, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1721008647601910, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647641245, "dur":35805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1721008647677111, "dur":33046, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647711887, "dur":31713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1721008647743620, "dur":19752, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008647764285, "dur":277064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648041379, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648041683, "dur":5721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648047435, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648047597, "dur":4552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648052177, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648052490, "dur":5207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648057777, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648057847, "dur":11726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648075385, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648069662, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648075536, "dur":527, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648076095, "dur":5663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648081839, "dur":6618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1721008648088494, "dur":230334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1721008648335424, "dur":54493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648393568, "dur":19657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648413263, "dur":148, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648414333, "dur":24269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008648438697, "dur":13140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008648458530, "dur":18974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648480436, "dur":8071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008648490822, "dur":409148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008648900038, "dur":4154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008648904268, "dur":3749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008648909001, "dur":3040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008648913177, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.vis" }}
+,{ "pid":12345, "tid":4, "ts":1721008648917399, "dur":4104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008648922446, "dur":19687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008648945909, "dur":381, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008648942248, "dur":4165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008648946455, "dur":10725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648957234, "dur":5343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648962619, "dur":3186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008648967260, "dur":3153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.vis" }}
+,{ "pid":12345, "tid":4, "ts":1721008648970473, "dur":111453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649104926, "dur":51951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008649161980, "dur":10427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649174343, "dur":7863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649183134, "dur":4323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008649187523, "dur":5219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008649195129, "dur":5544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649204035, "dur":7489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649212647, "dur":7168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649219855, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1721008649221305, "dur":9088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008649231511, "dur":5716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1721008649240165, "dur":187780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.vis" }}
+,{ "pid":12345, "tid":4, "ts":1721008649427978, "dur":6116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008649434715, "dur":4590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008649439348, "dur":5071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.caw" }}
+,{ "pid":12345, "tid":4, "ts":1721008649444679, "dur":3040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1721008649450210, "dur":3695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1721008649453925, "dur":4015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647573737, "dur":19520, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647593262, "dur":433, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647593696, "dur":494, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647594190, "dur":232, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647594423, "dur":7305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647601730, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1721008647621616, "dur":58509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1721008647680199, "dur":30009, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647711289, "dur":35821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1721008647747129, "dur":16229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008647764222, "dur":273308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648043004, "dur":229, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648037662, "dur":5594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648043293, "dur":277, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648043598, "dur":5011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648048629, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648048757, "dur":5369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648054313, "dur":5202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648059587, "dur":11207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648070827, "dur":335, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648077801, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648071184, "dur":6771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648078025, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648078093, "dur":4980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648083110, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648083400, "dur":4708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1721008648088150, "dur":35836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.addressables\\aa\\Windows\\catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1721008648088149, "dur":35841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1721008648124031, "dur":88161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1721008648212232, "dur":113937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1721008648336179, "dur":53380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648389609, "dur":11170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648404610, "dur":19164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1721008648438788, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648426651, "dur":13255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1721008648441724, "dur":22766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008648476882, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008648465306, "dur":11660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648479292, "dur":7948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008648492051, "dur":407912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1721008648900060, "dur":4236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648904366, "dur":4237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648908655, "dur":3261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648913324, "dur":3876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008648917252, "dur":3350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1721008648921894, "dur":19214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648942150, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648946114, "dur":9708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648956953, "dur":4521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648962254, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008648965541, "dur":4859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1721008648970458, "dur":112102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649104983, "dur":52044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008649161968, "dur":10094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649173834, "dur":6675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008649185882, "dur":6057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008649192117, "dur":6536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008649198926, "dur":6569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008649205535, "dur":7384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1721008649214914, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.vis" }}
+,{ "pid":12345, "tid":5, "ts":1721008649221188, "dur":7962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649229186, "dur":6801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008649427359, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008649241285, "dur":186167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1721008649427507, "dur":4081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649432889, "dur":3581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649436497, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008649437815, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649442132, "dur":3766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.caw" }}
+,{ "pid":12345, "tid":5, "ts":1721008649445928, "dur":440, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008649451663, "dur":345, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1721008649447999, "dur":4061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1721008649453078, "dur":4284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1721008649457379, "dur":581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647574129, "dur":19166, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647593299, "dur":406, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647593705, "dur":678, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647594384, "dur":7470, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647601856, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1721008647601935, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647642399, "dur":25146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1721008647667628, "dur":44807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1721008647712479, "dur":3938, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647716760, "dur":248985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008647965775, "dur":5941, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008647971830, "dur":66567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648038469, "dur":5251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648043768, "dur":5657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648049512, "dur":5939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648055476, "dur":284, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008648055783, "dur":11420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648067235, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008648067347, "dur":4782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648072230, "dur":7048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648079302, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008648079654, "dur":6073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1721008648085764, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.addressables\\aa\\Windows\\AddressablesLink\\link.xml" }}
+,{ "pid":12345, "tid":6, "ts":1721008648085762, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":6, "ts":1721008648087727, "dur":27100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":6, "ts":1721008648114849, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1721008648114967, "dur":202044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1721008648336167, "dur":55050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008648394244, "dur":20110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008648414474, "dur":24210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.caw" }}
+,{ "pid":12345, "tid":6, "ts":1721008648438733, "dur":13760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.caw" }}
+,{ "pid":12345, "tid":6, "ts":1721008648458619, "dur":18291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.caw" }}
+,{ "pid":12345, "tid":6, "ts":1721008648479075, "dur":7386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008648896485, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008648488759, "dur":407808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008648896611, "dur":6709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1721008648903817, "dur":4027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008648908555, "dur":3747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1721008648914173, "dur":3326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1721008648919158, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008648924789, "dur":18472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008648944292, "dur":12635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.caw" }}
+,{ "pid":12345, "tid":6, "ts":1721008648957006, "dur":7203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008648964238, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008648965534, "dur":5830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008648971540, "dur":110762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649104941, "dur":51984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649162258, "dur":11086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1721008649180693, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008649174464, "dur":6453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649182795, "dur":5387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649190076, "dur":5512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649196466, "dur":3174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008649204279, "dur":8098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008649212541, "dur":6713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649219361, "dur":9541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649234938, "dur":1208, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008649228961, "dur":7202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649240681, "dur":187506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649428232, "dur":3524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.caw" }}
+,{ "pid":12345, "tid":6, "ts":1721008649435989, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008649432820, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649436113, "dur":5446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1721008649446120, "dur":271, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008649441611, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.vis" }}
+,{ "pid":12345, "tid":6, "ts":1721008649451652, "dur":336, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1721008649447913, "dur":4138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1721008649453293, "dur":3857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1721008649457169, "dur":794, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647574232, "dur":19076, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647593311, "dur":755, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647594067, "dur":233, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647594300, "dur":111, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647594411, "dur":7327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647601740, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1721008647601905, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647640832, "dur":25640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1721008647666564, "dur":75160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1721008647741741, "dur":21480, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008647764215, "dur":274224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648038488, "dur":5542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648044071, "dur":5673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648049929, "dur":5334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648055320, "dur":4358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648059766, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648059852, "dur":11090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648070974, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648071188, "dur":7486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648078770, "dur":8092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1721008648086886, "dur":249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.addressables\\aa\\Windows\\settings.json" }}
+,{ "pid":12345, "tid":7, "ts":1721008648086884, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":7, "ts":1721008648087213, "dur":27629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":7, "ts":1721008648114893, "dur":213249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1721008648335176, "dur":19954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648358517, "dur":4092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.vis" }}
+,{ "pid":12345, "tid":7, "ts":1721008648362767, "dur":30578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648413116, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648394333, "dur":18954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648415108, "dur":25314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648442058, "dur":23507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008648465616, "dur":11758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008648480344, "dur":8169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d0/d010de954448371f8a33918aa165b836.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008648490801, "dur":9506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.vis" }}
+,{ "pid":12345, "tid":7, "ts":1721008648896274, "dur":7195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.vis" }}
+,{ "pid":12345, "tid":7, "ts":1721008648903755, "dur":4159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008648908912, "dur":3951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648918235, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648914095, "dur":4208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/bb/bbd556bbbef863712408c2b2ca2b24ad.caw" }}
+,{ "pid":12345, "tid":7, "ts":1721008648918389, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648920325, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648925126, "dur":17862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.caw" }}
+,{ "pid":12345, "tid":7, "ts":1721008648943023, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648944247, "dur":12312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008648963964, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008648957496, "dur":6585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008648964705, "dur":3834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008648968575, "dur":92283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.caw" }}
+,{ "pid":12345, "tid":7, "ts":1721008649060906, "dur":82838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008649144738, "dur":26222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008649176079, "dur":175, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008649171998, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.caw" }}
+,{ "pid":12345, "tid":7, "ts":1721008649176333, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649186957, "dur":5795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649195021, "dur":5508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008649204095, "dur":6669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649211733, "dur":7525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649219365, "dur":9493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008649234816, "dur":151, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008649228933, "dur":6059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008649430076, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008649241154, "dur":189098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649430695, "dur":4686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008649436902, "dur":4747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1721008649446332, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1721008649441695, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1721008649447733, "dur":4902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008649453286, "dur":3725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1721008649457027, "dur":927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647574376, "dur":18942, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647593323, "dur":693, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647594016, "dur":256, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647594273, "dur":222, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647594495, "dur":7247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647601849, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1721008647601744, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1721008647642287, "dur":46050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1721008647688403, "dur":21761, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008647711262, "dur":8381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1721008647763431, "dur":275191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648038683, "dur":9498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648048205, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648048374, "dur":5939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648054338, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648054461, "dur":4802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648059418, "dur":11134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648070577, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648070722, "dur":6160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648076944, "dur":349, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648077368, "dur":4776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648082184, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648082463, "dur":5928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1721008648088481, "dur":122161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/AI_01.txt" }}
+,{ "pid":12345, "tid":8, "ts":1721008648210678, "dur":169176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1721008648399454, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008648379886, "dur":19662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f8/f8890921e2524fd65bc8d2dd9f079141.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008648404635, "dur":19366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008648426658, "dur":13788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008648442254, "dur":22777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008648465499, "dur":10499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008648476090, "dur":7914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1721008648484094, "dur":5738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008648500124, "dur":401933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1721008648902116, "dur":3872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008648906782, "dur":3809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008648913340, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008648917241, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008648922246, "dur":19646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008648942468, "dur":4873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008648947380, "dur":10705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008648958470, "dur":6012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008648965834, "dur":5538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008648971615, "dur":109466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008649081117, "dur":63749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008649169798, "dur":222, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1721008649144966, "dur":25067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008649173909, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008649178462, "dur":9837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.caw" }}
+,{ "pid":12345, "tid":8, "ts":1721008649190917, "dur":5395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008649197582, "dur":8359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008649205990, "dur":16765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008649227484, "dur":8530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.vis" }}
+,{ "pid":12345, "tid":8, "ts":1721008649424669, "dur":4011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008649430511, "dur":6646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.vis" }}
+,{ "pid":12345, "tid":8, "ts":1721008649438206, "dur":5055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1721008649443794, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1721008649449248, "dur":4421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.vis" }}
+,{ "pid":12345, "tid":8, "ts":1721008649453760, "dur":4114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008647574532, "dur":18792, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647593329, "dur":740, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647594069, "dur":241, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647594310, "dur":7360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647601763, "dur":13810, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647615589, "dur":5313, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647621513, "dur":11185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1721008647632703, "dur":346, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1721008647632701, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1721008647633051, "dur":7930, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008647642594, "dur":68745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1721008647716530, "dur":295416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648011983, "dur":22195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648034198, "dur":9971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648044195, "dur":927, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648045171, "dur":3760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648048950, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648049055, "dur":5253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648054363, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648059952, "dur":384, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648060360, "dur":11164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648071591, "dur":5294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648076942, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648077357, "dur":5598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648082994, "dur":335, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648088459, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648083405, "dur":5147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1721008648088592, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648088647, "dur":229215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1721008648336335, "dur":55114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008648394339, "dur":21412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008648417419, "dur":12246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e7/e7bf80f73e5ac26588623358c351a24e.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008648438121, "dur":12976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008648475045, "dur":125, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648458196, "dur":16987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.vis" }}
+,{ "pid":12345, "tid":9, "ts":1721008648477027, "dur":6341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008648484233, "dur":4328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008648492655, "dur":407692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008648902280, "dur":3851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008648906779, "dur":3566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008648912913, "dur":4398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.vis" }}
+,{ "pid":12345, "tid":9, "ts":1721008648917353, "dur":4144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008648922438, "dur":20334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008648942837, "dur":4177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008648947056, "dur":9877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008648956986, "dur":4726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008648962985, "dur":3069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008649040486, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008648967926, "dur":72707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008649040687, "dur":41593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/73/7332502f4cc9ee5fe3da62013c6e15cf.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008649104950, "dur":52321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008649162590, "dur":10844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008649174489, "dur":7060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008649186079, "dur":6896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008649195065, "dur":11201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008649224404, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008649206342, "dur":18154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1721008649228579, "dur":7613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3e/3ea1fe556b587478c18b04ef7c042904.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008649425905, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.caw" }}
+,{ "pid":12345, "tid":9, "ts":1721008649430296, "dur":5673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/20/2000632f5bb7db724f88653e02d017ad.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008649436001, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1721008649436088, "dur":6784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008649443833, "dur":4228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1721008649451602, "dur":5062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1721008649456686, "dur":1285, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647574673, "dur":18662, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647593338, "dur":563, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647593902, "dur":305, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647594207, "dur":275, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647594482, "dur":7248, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647601740, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1721008647601917, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647640836, "dur":31025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1721008647671914, "dur":38237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647710179, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647717190, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647710238, "dur":7063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1721008647717379, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo.exe" }}
+,{ "pid":12345, "tid":10, "ts":1721008647720892, "dur":42508, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648040321, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008647764281, "dur":276180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648040497, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648040592, "dur":7453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648048149, "dur":5689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648054027, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648058174, "dur":11812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648070018, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648070126, "dur":6993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648077150, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648077362, "dur":6340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648083799, "dur":4627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1721008648088463, "dur":171, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648088636, "dur":228163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1721008648334954, "dur":54883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/fa/faa25e74d65afe5b332218860be77d2d.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008648393894, "dur":19631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008648415078, "dur":25277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008648442052, "dur":22994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1721008648465502, "dur":10482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648476294, "dur":5997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648483927, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648489259, "dur":410896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648901848, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1721008648906305, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648912128, "dur":3861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008648917127, "dur":4243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008648922256, "dur":20529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1721008648944053, "dur":12600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008648964031, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1721008648957967, "dur":6127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008648964548, "dur":3947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.caw" }}
+,{ "pid":12345, "tid":10, "ts":1721008648968549, "dur":112214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008649080908, "dur":63442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649144843, "dur":26109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649171997, "dur":5383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008649177451, "dur":5871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008649187172, "dur":5036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649194875, "dur":5663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4f/4f60ed000cebe975de84a7c54c8561d9.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008649203948, "dur":6698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4a/4a0601015de9171acdca09132598c027.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1721008649212165, "dur":7111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008649219596, "dur":10511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/40/408ac8dc6ce2a604f69ee3a159d015d7.caw" }}
+,{ "pid":12345, "tid":10, "ts":1721008649231060, "dur":6211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649240413, "dur":187426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649427916, "dur":3543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1721008649432693, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.vis" }}
+,{ "pid":12345, "tid":10, "ts":1721008649438106, "dur":3938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1721008649442127, "dur":3232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008649445429, "dur":2945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.caw" }}
+,{ "pid":12345, "tid":10, "ts":1721008649450653, "dur":4697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1721008649455394, "dur":2540, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647574756, "dur":18592, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647593352, "dur":612, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647593964, "dur":263, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647594227, "dur":242, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647594469, "dur":7255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647601833, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1721008647601727, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1721008647601919, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647642301, "dur":35159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1721008647677516, "dur":32681, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008647711393, "dur":8122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1721008647763538, "dur":278234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648041806, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648041972, "dur":5746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648047788, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648047853, "dur":5035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648052973, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648057609, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648057746, "dur":12588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648070360, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648077246, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648070443, "dur":7032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648077506, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648077622, "dur":5483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648083136, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648083410, "dur":4745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1721008648088179, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\ConfigMap.txt" }}
+,{ "pid":12345, "tid":11, "ts":1721008648088178, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/StreamingAssets/ConfigMap.txt" }}
+,{ "pid":12345, "tid":11, "ts":1721008648088391, "dur":122432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/ConfigMap.txt" }}
+,{ "pid":12345, "tid":11, "ts":1721008648210864, "dur":120365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1721008648335644, "dur":19328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648355092, "dur":34933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.caw" }}
+,{ "pid":12345, "tid":11, "ts":1721008648393663, "dur":19501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f6/f68743709e511f384be8b5c4ccfb2f63.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008648413228, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648438365, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648414159, "dur":24327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648438687, "dur":13258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/e2/e2544ce7f2f2e2da87622ad6a95a61cf.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648458518, "dur":16405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/db/dbd10bfbce06bcc3c181f7c92aece819.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008648476056, "dur":5825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008648487572, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648483737, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008648490843, "dur":409171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/cd/cd9c454c93c92bff9cfeb41574fca659.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008648901885, "dur":3498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c6/c677ffae86a8f8011c751625e3b70aa1.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008648906693, "dur":3678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c1/c1ba377c2646b7dbd130f318641d78f8.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008648912394, "dur":3705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008648917108, "dur":4277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b5/b510da741a15fd1e3000d369f4867c7c.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648922330, "dur":19906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b0/b0c5dc13868f8694219d59e62b1fa8f8.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648946034, "dur":303, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1721008648942278, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a3/a340789030b603198ebdc7f36834aaf7.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648946416, "dur":10006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/9f/9ffef5504f8892164e8b9f3dc93375db.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008648957541, "dur":4871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/955a2ad0e7fec4fa143291021f1ff7a2.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008648962470, "dur":3461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/92/927ce7c655d5ab0af8c173a68d149c70.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008648967843, "dur":73418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/78f183ad10d9a40d933e84e1ba37b178.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649060479, "dur":83159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/71/71ec0a8451b3e5de67343f273148438e.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649144596, "dur":25611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/67/670ea3466dbb1e07efaf20ad9ab5e93a.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649171858, "dur":4884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/60/6001e06ce92379a5e2a8d76cdb4cbdc4.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649176787, "dur":6446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5d4755c4272a121117776ef9522a30d3.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649186975, "dur":4925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/58/5880b46180e628377c954d76fda7e3a0.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1721008649192023, "dur":6335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008649198694, "dur":7854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008649206595, "dur":6225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.caw" }}
+,{ "pid":12345, "tid":11, "ts":1721008649212950, "dur":7066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.caw" }}
+,{ "pid":12345, "tid":11, "ts":1721008649221570, "dur":9401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649231046, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008649236873, "dur":188941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/25/25f920a644d6b54cee3941825d424e29.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008649425863, "dur":6271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.vis" }}
+,{ "pid":12345, "tid":11, "ts":1721008649433136, "dur":5562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008649439044, "dur":5313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/12f6b6c03f9966ec193d568f79e84d95.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1721008649444672, "dur":3467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/11/11e9929fe78bb7c254854d74ce7ff489.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649450707, "dur":4679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/07/07f3c5f9138a24db96ab0b2acae7695d.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1721008649455405, "dur":2532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647575022, "dur":18413, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647593435, "dur":653, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647594089, "dur":271, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647594360, "dur":7373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647601860, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\unity\\editor\\2022.3.14f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1721008647601735, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1721008647648085, "dur":40372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1721008647688508, "dur":21678, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008647711147, "dur":7898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1721008647719070, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/ARPG/ARPGDemo_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1721008647720361, "dur":287818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1721008648008208, "dur":25958, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648034204, "dur":8524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648042797, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648042869, "dur":5204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648048136, "dur":5597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648053804, "dur":4100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648057964, "dur":9891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648067892, "dur":605, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648068587, "dur":4815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648073440, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648073522, "dur":6752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648080301, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648080492, "dur":5232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1721008648088240, "dur":171455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/StreamingAssets/aa/StandaloneWindows/d9cc98a63c0586d48046b94b2b5012e3_unitybuiltinshaders_3a23eca7418671ca62d857afb07d289a.bundle" }}
+,{ "pid":12345, "tid":12, "ts":1721008648259751, "dur":68373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1721008648335488, "dur":19476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008648355082, "dur":36673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/f9/f993c9a0b2d7f7a5250c17f1093ba108.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1721008648394298, "dur":17641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ee/ee23ebdeabf20aa32d556f4b44748e33.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008648413899, "dur":24888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ec/ec1e11fb220827eb59ffcf355915fd38.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008648464420, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648441931, "dur":22598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/de/de82a2acac5d7a14216e21d622b5ee1c.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008648465511, "dur":10885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d7/d7367b1ad7ff9e71f62d568587f90140.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648476465, "dur":6540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/d6/d62c6c4f06d6ff6db64ad7a823885882.caw" }}
+,{ "pid":12345, "tid":12, "ts":1721008648489051, "dur":235, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008648484213, "dur":5089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/ce/cec83172164326e2ecfd835dfeb08e09.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008648491109, "dur":405753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c8fc1f010cf2cb21f61f625f86814170.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648896933, "dur":6682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c8/c84581f1d66965ab4f3e9ff7e10e7ba8.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648903700, "dur":4076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c2/c2a85b5c3d07467a37b4b86879f38ad0.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648908553, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/c0/c0556b13157bec57fd90977e49777262.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008648913277, "dur":5271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/be/bee49c31328debf4c9ef56850924abee.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1721008648920204, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/b3/b38255fbcbd6d489dbad8997d88077fe.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1721008648925424, "dur":17598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a7/a71b4d5a7065187b7592dfb9f5699b28.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008648944231, "dur":13706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/a1/a1236ba32163e011a9d1c41e00850d3a.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648958446, "dur":7167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/95/952bdd60654b4ec4fb650f932ae74b05.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008648965647, "dur":4760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/8e/8e1a5aa1dfddc927e28a4498a935efbf.caw" }}
+,{ "pid":12345, "tid":12, "ts":1721008648970468, "dur":111286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/78/7807c594e6d4184c3da937ca4b594e3d.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649104876, "dur":52975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/6a/6a4d1ddefdb7365b01f56f8b6f29e848.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008649162331, "dur":9775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/66/66debeeaf049de3dfa2c353037622551.caw" }}
+,{ "pid":12345, "tid":12, "ts":1721008649180668, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649174101, "dur":6702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5d/5ddc91cdda293f77dbb42da38770de99.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649183134, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/5a/5a36081e0b96b6e2204f22ef5c6aca95.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649196892, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649190349, "dur":6675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/51/518ca2886684f2c1839bf6c84a6dd006.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008649197333, "dur":5157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/4b/4b66540aa6e759230ac7be8dc98f3f36.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649204516, "dur":6369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/47/47854dbf42a2fffe1684a4551dbb3ce0.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008649211984, "dur":7605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/46/4632faec556c717b739875f49535cb67.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649221139, "dur":9317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/3f/3f51c8cf2d10fa37d71e5172933e9ca5.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008649238220, "dur":199, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649231130, "dur":7490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/39/396f9e6d628a87099ac43b3e18608be9.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649240411, "dur":187104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/249707ccee782572257572bbe695d57b.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649427558, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/24/2466292176eea1fc6006a721fd894f44.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649432815, "dur":3170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/1f/1f70388b1540c0f9798bd3eebba0296e.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1721008649436024, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649436187, "dur":5382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/19/199ec6c9dcda49650674b2006df01a2d.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649446145, "dur":286, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649441615, "dur":4828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/12/1200c12a282d34f012a9bcbf8f0752b4.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649451232, "dur":736, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1721008649447551, "dur":4440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/0d/0da732b0de3da2034f3381ab96eea5e8.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1721008649453066, "dur":4670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/ARPG/ARPGDemo_Data/GI/level0/01/017feb4588e7beabf931ef26ad8d1a76.vis" }}
+,{ "pid":12345, "tid":12, "ts":1721008649457758, "dur":184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1721008649475267, "dur":4573, "ph":"X", "name": "ProfilerWriteOutput" }
+,

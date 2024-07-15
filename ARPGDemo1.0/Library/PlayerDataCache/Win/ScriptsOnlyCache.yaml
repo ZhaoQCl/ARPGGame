@@ -1,0 +1,694 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp:
+    - ARPGDemo.Skill.MeleeSkillDeployer
+    - ActiveTime
+    Assembly-CSharp.dll:
+    - AI.FSM.FSMBase
+    - ARPGDemo.MyCharacter.MyCharacterInputController
+    - ARPGDemo.MyCharacter.MyCharacterMotor
+    - ARPGDemo.MyCharacter.MyCharacterSelected
+    - ARPGDemo.MyCharacter.MyEnemyStatus
+    - ARPGDemo.MyCharacter.MyPlayerStatus
+    - ARPGDemo.Skill.CharacterSkillManager
+    - ARPGDemo.Skill.CharacterSkillSystem
+    - Common.AnimationEventBehaviour
+    - EasyButton
+    - EasyJoystick
+    - EasyTouch
+    - VirtualScreen
+    - ns.CameraWithPlayer
+    Unity.AI.Navigation.Editor.dll:
+    - Unity.AI.Navigation.Editor.NavigationWindow
+    Unity.Addressables.Editor.dll:
+    - UnityEditor.AddressableAssets.AddressableAssetSettingsDefaultObject
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptFastMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptPackedMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptPackedPlayMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptVirtualMode
+    - UnityEditor.AddressableAssets.BuildReportVisualizer.BuildReportWindow
+    - UnityEditor.AddressableAssets.GUI.AddressableAssetsWindow
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetGroupTemplate
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetSettings
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.BundledAssetGroupSchema
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.PlayerDataGroupSchema
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  serializedClasses:
+    Assembly-CSharp:
+    - ARPGDemo.MyCharacter.MyCharacterAnimationParameter
+    - ARPGDemo.Skill.SkillData
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scenes/ARPGDemo1.0.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16588}
+    - Class: 114
+      Script: {instanceID: 16676}
+    - Class: 114
+      Script: {instanceID: 17042}
+    - Class: 114
+      Script: {instanceID: 17182}
+    - Class: 114
+      Script: {instanceID: 17298}
+    - Class: 114
+      Script: {instanceID: 17616}
+    - Class: 114
+      Script: {instanceID: 17658}
+    - Class: 114
+      Script: {instanceID: 17878}
+    - Class: 114
+      Script: {instanceID: 17940}
+    - Class: 114
+      Script: {instanceID: 18080}
+    - Class: 114
+      Script: {instanceID: 18090}
+    - Class: 114
+      Script: {instanceID: 18220}
+    - Class: 114
+      Script: {instanceID: 18512}
+    - Class: 114
+      Script: {instanceID: 18546}
+    - Class: 114
+      Script: {instanceID: 18616}
+    - Class: 114
+      Script: {instanceID: 18636}
+    - Class: 114
+      Script: {instanceID: 43694}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 154
+      Script: {instanceID: 0}
+    - Class: 156
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 218
+      Script: {instanceID: 0}
+    - Class: 238
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    - Class: 1953259897
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 3ecfe25b185cdc5a896fa004587c2ffe
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: XXManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8b726940f69510d7e6c25f534c96d746
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EasyButton
+  - hash:
+      serializedVersion: 2
+      Hash: 68a17a6a1c0b575143de9dc2cd6a0ada
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Drag
+  - hash:
+      serializedVersion: 2
+      Hash: 0cd105350c552e392bbc31b6cc198be7
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: KilledTargetTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 6b75b6e8c26b071f40b9a1f56ec1f7fc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: VirtualScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 932c69e7e3a637d801620b8bb7834840
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Photo
+  - hash:
+      serializedVersion: 2
+      Hash: 2ca57fc056d6c6bb6b30fccadf70dfa9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Bullet
+  - hash:
+      serializedVersion: 2
+      Hash: 68d36d71c41b327c4f3197641db60503
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: ReachTargetTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 9125c3cde21c9afb67625d375e2b9b21
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: SawTargetTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 2a001855a73e96a666bdbf762f30ee09
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiLayer
+  - hash:
+      serializedVersion: 2
+      Hash: 08b0011d445dcfacedd580e1d2b82183
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiTwoFinger
+  - hash:
+      serializedVersion: 2
+      Hash: 5b8b7230ad968399f6726aa1269dcdcb
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: d508cc2b1e7537b5a1491302ea1a4298
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: AIConfigurationReaderFactory
+  - hash:
+      serializedVersion: 2
+      Hash: 1557b5bee11aa0bd7c1ee333cb5c46ce
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoDoubleTap
+  - hash:
+      serializedVersion: 2
+      Hash: 5c38bbea130d51fdea15cbfbf7cc0c8c
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyCharacterInputController
+  - hash:
+      serializedVersion: 2
+      Hash: 75a8f9f55b4b4b6e28c3064354f49cc5
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: LoseTargetTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 061a5d77ce0aa52a60c21c566c6d8af2
+    assemblyName: Unity.AI.Navigation
+    namespaceName: Unity.AI.Navigation
+    className: NavMeshModifierVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 19824dd35debb3fff0983df49f8359ab
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: c37e7177c260c70c97ef1d9a06633c3d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoDrag
+  - hash:
+      serializedVersion: 2
+      Hash: 172a33a6dcffb708c2391bd3bbe426f7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ScreenTouch
+  - hash:
+      serializedVersion: 2
+      Hash: a540384d44897b45a9402380b362051e
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EasyTouch
+  - hash:
+      serializedVersion: 2
+      Hash: 28bfe97a5a474b2727029c5a37524ce8
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TouchStart
+  - hash:
+      serializedVersion: 2
+      Hash: cfb9abaaa2f69255fa3ed354f7c9e1fb
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DoubleTap
+  - hash:
+      serializedVersion: 2
+      Hash: 830c3b545f6e6ee60a4cebab90516f2c
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: e5064b1f91e261087a41487e2a14580e
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.Skill
+    className: DeployerConfigFactory
+  - hash:
+      serializedVersion: 2
+      Hash: 7b2342dfd738e0afcdaf077bdf6dced3
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ActiveTime
+  - hash:
+      serializedVersion: 2
+      Hash: d55992199bd2f5a5502658391cdf8ba7
+    assemblyName: Unity.AI.Navigation
+    namespaceName: Unity.AI.Navigation
+    className: NavMeshSurface
+  - hash:
+      serializedVersion: 2
+      Hash: a6faf55dc3d8546aadd87c3eddf064df
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: JoystickEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 29dc5be4f15cd9c7c9e30804cdcef7d5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ExitButton
+  - hash:
+      serializedVersion: 2
+      Hash: fce4b7106d7648e9ecb510a729e2f3bb
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Swipe
+  - hash:
+      serializedVersion: 2
+      Hash: a26394f16ea59fef7da18049b6d8e75b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiStartMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 7e93247d600e115dac0cdd880de94e99
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 839325d9b813b8153cc13e549141dcce
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: C_EasyButtonTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: d65023f7f04f39ba14255591386cc3e7
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: Bullet
+  - hash:
+      serializedVersion: 2
+      Hash: bb121e78e6bc949f0404cf6c0314a1af
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ETPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: b9e55b8e2fb3c704f78f757fd93d9da1
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyCharacterSelected
+  - hash:
+      serializedVersion: 2
+      Hash: caa7cab84dd4619d43f84782ae10ab2e
+    assemblyName: Unity.ResourceManager
+    namespaceName: UnityEngine.ResourceManagement.Util
+    className: DelayedActionManager
+  - hash:
+      serializedVersion: 2
+      Hash: c298f79fbf6f0778cace16ef79582036
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.Skill
+    className: MeleeSkillDeployer
+  - hash:
+      serializedVersion: 2
+      Hash: 3c1cec94da9a17a60feaa2130e29dd8b
+    assemblyName: Unity.ResourceManager
+    namespaceName: 
+    className: MonoBehaviourCallbackHooks
+  - hash:
+      serializedVersion: 2
+      Hash: cb06da568abce6f7e5422751d9218fb9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoTap
+  - hash:
+      serializedVersion: 2
+      Hash: 6250cb46f1353ad4ea1978421e6b06fe
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiOneFinger
+  - hash:
+      serializedVersion: 2
+      Hash: c09b1423e2382adbc08355dc214cc52c
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: CompletePatrolTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: aa7c70b233d5f48258c75d73c8f31fb1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: C_EasyTouchTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: fd646486e378c891f333f642a9140675
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: ThreadDemo01
+  - hash:
+      serializedVersion: 2
+      Hash: d4b968135f38855075545c460a2152c4
+    assemblyName: Unity.ScriptableBuildPipeline
+    namespaceName: UnityEngine.Build.Pipeline
+    className: CompatibilityAssetBundleManifest
+  - hash:
+      serializedVersion: 2
+      Hash: 4f4797a07864c71ecf4ec083be574920
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoTouchStart
+  - hash:
+      serializedVersion: 2
+      Hash: 70443edb0abcf608d8c08fb7eaa6acf1
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyEnemyStatus
+  - hash:
+      serializedVersion: 2
+      Hash: 22daf6157d15f24e0bc56197f75ab66e
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GUIFirstDirect
+  - hash:
+      serializedVersion: 2
+      Hash: 6e63f205244f86b0d28798ffede98c86
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: LongTap
+  - hash:
+      serializedVersion: 2
+      Hash: f1e9b603891dfabb556322868aa83edd
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EasyJoystick
+  - hash:
+      serializedVersion: 2
+      Hash: 0be3b3d74d248fe0b972a7f9fa9063df
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiMultiFinger
+  - hash:
+      serializedVersion: 2
+      Hash: 37ebeb3eca9219c2901ad3ee8f2190ee
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoLongTap
+  - hash:
+      serializedVersion: 2
+      Hash: 29746cedff11d4cc49eacd26e7845a4e
+    assemblyName: Assembly-CSharp
+    namespaceName: Common
+    className: GameObjectPool
+  - hash:
+      serializedVersion: 2
+      Hash: fd79d8340f866169d959f5fc8ebd42d5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SlowRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 060ef2af684da62a3fb807454be6f50a
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: Test
+  - hash:
+      serializedVersion: 2
+      Hash: e5e706b94861f4092fca0428779ff73b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Tap
+  - hash:
+      serializedVersion: 2
+      Hash: 10f42e04f8ca9170fa25d0633e22d4e9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TwoSwipe
+  - hash:
+      serializedVersion: 2
+      Hash: 67b09feb86d3c888d5006e66fe55a605
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyCharacterMotor
+  - hash:
+      serializedVersion: 2
+      Hash: 5fd57555485e5e5d50d03989eb4b766f
+    assemblyName: Assembly-CSharp
+    namespaceName: Common
+    className: AnimationEventBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: cd93613d8bc3162865e7be23ee116423
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ObjectTouch
+  - hash:
+      serializedVersion: 2
+      Hash: 686354ef48fd8a6754300f17c6524ad1
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: CameraWithPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 6ddf94363c6ce4b02d9fdd51290cb0f9
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5e10293523d10903c62cdd76fb27fb80
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiPhoto
+  - hash:
+      serializedVersion: 2
+      Hash: ea436b09734f1a4ad9904c9203c091a2
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: Gun
+  - hash:
+      serializedVersion: 2
+      Hash: bf40c7a9dc15bc219687c9838aa9b41f
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 40c5debfe7ad3c400db9a5fdcb99c29e
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: ThreadDemo02
+  - hash:
+      serializedVersion: 2
+      Hash: 7d28ded95de3ea36a22596b9232437f6
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: CoroutineFadeOut
+  - hash:
+      serializedVersion: 2
+      Hash: 327ca7e75cce4566cde2d9635cb75cde
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GuiCam
+  - hash:
+      serializedVersion: 2
+      Hash: 9e5c3ac9a308e6a13990c2db98632510
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: C_EasyJoystickTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: e0ac012aa6c3157d29cb71e0398e38d4
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyCharacterStatus
+  - hash:
+      serializedVersion: 2
+      Hash: abf9e42f58cc2a289011e57686aee479
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.MyCharacter
+    className: MyPlayerStatus
+  - hash:
+      serializedVersion: 2
+      Hash: 24ee9e556a92b2889f98e541f16b1b8c
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TouchLayer
+  - hash:
+      serializedVersion: 2
+      Hash: 88061ca6aa80fd469b580540210bad17
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.Skill
+    className: CharacterSkillSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 68f2cb287af2eee1f639824485a3402b
+    assemblyName: Unity.AI.Navigation
+    namespaceName: Unity.AI.Navigation
+    className: NavMeshModifier
+  - hash:
+      serializedVersion: 2
+      Hash: 672716ae97f6ddb615fa5ac3ec9da349
+    assemblyName: UnityEngine.TestRunner
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: a55b4145950e712728ff3f711a928d0c
+    assemblyName: Assembly-CSharp
+    namespaceName: Common
+    className: ThreadCrossHelper
+  - hash:
+      serializedVersion: 2
+      Hash: b97a71490240d16b9541aa47bf0efc2f
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: FSMBase
+  - hash:
+      serializedVersion: 2
+      Hash: a2dfdf2b60bf3c2a46dc381135a7fbc9
+    assemblyName: Assembly-CSharp
+    namespaceName: ARPGDemo.Skill
+    className: CharacterSkillManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8506410f6f149092bdf10e80a6f24670
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Pinch
+  - hash:
+      serializedVersion: 2
+      Hash: 1fda026b7d8530363b660050f0c92d47
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Twist
+  - hash:
+      serializedVersion: 2
+      Hash: 1dbe3c14181ca38c16acb639ab2103ba
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: Coroutine01
+  - hash:
+      serializedVersion: 2
+      Hash: 143551d2b60d1eec62124097e298f2aa
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FreeCam
+  - hash:
+      serializedVersion: 2
+      Hash: 8520e6c17333ea3d5ff7c7039b20c05a
+    assemblyName: Unity.ResourceManager
+    namespaceName: UnityEngine.ResourceManagement.Diagnostics
+    className: DiagnosticEventCollector
+  - hash:
+      serializedVersion: 2
+      Hash: e133ff72c38c26f601faf60234252119
+    assemblyName: Assembly-CSharp
+    namespaceName: ns
+    className: Coroutine02
+  - hash:
+      serializedVersion: 2
+      Hash: d38472fc9a2f209a1e8bcc20933dd276
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: NoHealthTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8a2f78c25d5e92eb97ee5544a162a2e9
+    assemblyName: Unity.AI.Navigation
+    namespaceName: Unity.AI.Navigation
+    className: NavMeshLink
+  - hash:
+      serializedVersion: 2
+      Hash: 23e9984de23c57e314f5c977426efd09
+    assemblyName: Assembly-CSharp
+    namespaceName: AI.FSM
+    className: WithoutAttackRangeTrigger
+  platform: 5
+  scenePathNames:
+  - Assets/Scenes/ARPGDemo1.0.unity
+  playerPath: F:/ARPG/ARPGDemo.exe

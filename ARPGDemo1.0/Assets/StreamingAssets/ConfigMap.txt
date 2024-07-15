@@ -1,0 +1,16 @@
+GameObject=ScecesPrefab/GameObject
+light=ScecesPrefab/light
+Scene_Collider=ScecesPrefab/Scene_Collider
+Scene_Item=ScecesPrefab/Scene_Item
+Scene_XinShouCun=ScecesPrefab/Scene_XinShouCun
+Terrain=ScecesPrefab/Terrain
+Cube=Skill/Cube
+Sphere=Skill/Sphere
+swordStrike1=Skill/swordStrike1
+swordStrike2=Skill/swordStrike2
+swordStrike3=Skill/swordStrike3
+Attack=Skill1/Attack
+Effect_skill_banyuezhan_Hit=Skill1/Effect_skill_banyuezhan_Hit
+Effect_Skill_Boss_jianling_b=Skill1/Effect_Skill_Boss_jianling_b
+Effect_skill_Leidongjiutian_Hit=Skill1/Effect_skill_Leidongjiutian_Hit
+Effect_skill_nan_start=Skill1/Effect_skill_nan_start
